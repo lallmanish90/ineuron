@@ -1,0 +1,56 @@
+1.What does the dollar($) sign do?
+
+ANS: Absolute reference:
+In an absolute reference, each part of the reference (the letter that refers
+to the row and the number that refers to the column) is preceded by a “$”
+– for example, $A$1 is an absolute reference to cell A1. Wherever the
+formula is copied or moved, it always refers to cell A1.
+
+
+2.How to Change the Reference from Relative to Absolute (or
+Mixed)?
+ANS:
+• Switch between relative, absolute, and mixed references:
+• Select the cell that contains the formula.
+• In the formula bar. , select the reference that you want to change.
+• Press F4 to switch between the reference types.
+
+
+3.Explain the order of operations in excel?
+ANS: When evaluating a formula, Excel follows a standard math protocol
+called "order of operations". In general, Excel's order of operation follows
+the acronym PEMDAS (Parentheses, Exponents, Multiplication, Division,
+Addition, Subtraction) but with some customization to handle the formula
+syntax in a spreadsheet.
+
+
+4.What, according to you, are the top 5 functions in excel and
+write a basic syntax for any of two?
+ANS: The top 5 functions in excel:
+• The SUM Function. The sum function is the most used function
+when it comes to computing data on Excel. ...
+• The TEXT Function. ...
+• The VLOOKUP Function. ...
+• The AVERAGE Function. ...
+• The CONCATENATE Function.
+BASIC SYNTAXS:
+The syntax of a function in Excel or Google Sheets refers to the layout
+and order of the function and its arguments. A function in Excel and
+Google Sheets is a built-in formula. All functions begin with the equal sign
+( = ) followed by the function's name such as IF, SUM, COUNT, or
+ROUND.
+
+
+5.When would you use the subtotal function?
+ANS: The SUBTOTAL function is used when you display a Total row in
+an Excel Table. Excel inserts the SUBTOTAL function automatically, and
+you can use a drop-down menu to switch behavior and show max, min,
+average, etc.
+
+
+6.What is the syntax of the vlookup function? Explain the terms in
+it?
+ANS:In its simplest form, the VLOOKUP function says: =VLOOKUP(What
+you want to look up, where you want to look for it, the column number in
+the range containing the value to return, return an Approximate or Exact
+match – indicated as 1/TRUE, or 0/FALSE).
